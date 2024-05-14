@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @voiDXDops
 - 👀 I’m interested in CODING and editing Stuffs...
+- 🖋️ Currently an undergrad aimimg to be an aspiring SDE
 - 🌱 I have ample knowledge about JAVA & C, and am learning Python as well...
 - 📫 You can reach me: Linkdin     : https://www.linkedin.com/in/jsg-jishu/ 
-- 📫                   Instagram   : https://www.instagram.com/fren._.zy/
 
 <!---
 voiDXDops/voiDXDops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
